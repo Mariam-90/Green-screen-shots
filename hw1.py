@@ -1,6 +1,5 @@
 #HW1
-#Name: Arwa Abu Shah ID:209045418
-#Name: Maryam Abu Gneem ID:305173346
+
 
 import cv2
 import numpy as np
